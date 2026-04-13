@@ -6,10 +6,12 @@ body{
     margin: 2em;
     padding: 2em;
     border: solid 1px;
-    border-style: ;
 
 }
 
 h2{
     text-align: center;
+}
+header{
+    font-weight: 400%;
 }
