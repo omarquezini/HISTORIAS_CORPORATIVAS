@@ -33,12 +33,15 @@ button a {
     text-decoration: none;
 }
 hr{
-    background-color: black; /* Cor desejada */
-    height: 2px;          /* Espessura da linha */
-    border: none;         /* Remove a borda padrão */
+    background-color: black; 
+    height: 2px;        
+    border: none;         
 }
 img{
     display: block;
     margin: auto;
     width: 400;
+}
+header{
+    padding-top: 2em;
 }
